@@ -1,0 +1,259 @@
+
+*{
+
+    padding: 0;
+    margin: 0;
+}
+
+
+.hero-container{
+    width: 1440px;
+    height: 3339px;
+}
+
+.head{
+                         /* image 1 */
+position: absolute;
+width: 1440px;
+height: 622px;
+left: 0px;
+top: 0px;
+
+    background-image: url(images/image.png);
+}
+
+.logo{
+                    /* pngwing 2 Logo 1 */
+position: absolute;
+width: 47px;
+height: 50px;
+left: 105px;
+top: 44px;
+
+background: url(pngwing);
+}
+
+.seaWorld{
+                         /* sea ​​world */
+position: absolute;
+width: 123px;
+height: 39px;
+left: 162px;
+top: 55px;
+color: white;
+
+}
+
+.headText{
+    /* Take care of the sea, take care of life */
+
+position: absolute;
+width: 451px;
+height: 125px;
+left: calc(50% - 451px/2 + 12.5px);
+top: 228px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 52px;
+line-height: 67px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+.rectengle2{
+                             /* Rectangle 2 */
+box-sizing: border-box;
+position: absolute;
+width: 816px;
+height: 140px;
+left: 312px;
+top: 552px;
+
+background: #FFFFFF;
+border: 1px solid #85BBD0;
+border-radius: 15px;
+}
+
+.summer{
+    /* Summer landscape_Two Color 1 */
+position: absolute;
+width: 136px;
+height: 130px;
+left: 41px;
+top: 5px;
+
+}
+
+.p6{
+    /* Keep Ecosystem */
+
+position: absolute;
+width: 126px;
+height: 61px;
+left: 179px;
+top: 41px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+color: #6B6B6B;
+
+}
+
+
+.fishing{
+    /* Fishing_Flatline 1 */
+
+position: absolute;
+width: 134px;
+height: 127px;
+left: 310px;
+top: 1px;
+
+}
+
+.p7{
+    /* Keep local people */
+
+position: absolute;
+width: 143px;
+height: 72px;
+left: 423px;
+top: 28px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+color: #6B6B6B;
+
+}
+
+
+.undraw{
+  /* undraw_environment_iaus 1 */
+
+position: absolute;
+width: 106px;
+height: 88px;
+left: 595px;
+top: 24px;
+
+}
+
+.p8{
+/* Keep Earth */
+
+position: absolute;
+width: 92px;
+height: 56px;
+left: 715px;
+top: 23px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+color: #6B6B6B;
+
+}
+
+
+
+
+
+
+.who{
+    /* Who Are We? */
+position: absolute;
+width: 322px;
+height: 48px;
+left: 768px;
+top: 891px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+text-align: center;
+
+color: #000000;
+
+}
+
+.p1{ 
+                /*  For Text */
+    position: absolute;
+width: 593px;
+height: 156px;
+left: 815px;
+top: 984px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+
+color: #4E4E4E;
+
+}
+
+.btn1{
+    /* Read more */
+
+
+position: absolute;
+width: 150px;
+height: 38px;
+left: 843px;
+top: 1198px;
+
+font-family: 'PT Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 31px;
+line-height: 40px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 192px;
+height: 71px;
+left: 815px;
+top: 1198px;
+
+background: #6FC5FF;
+border-radius: 15px;
+}
+
+.peopel{
+                         /* Rectangle 3 peopel image*/
+position: absolute;
+width: 645px;
+height: 400px;
+left: 86px;
+top: 891px;
+
+/* background: url(image.png); */
+border-radius: 15px;
+}
+
+
